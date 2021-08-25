@@ -1,0 +1,32 @@
+html {
+    font-size: 1.25rem;
+}
+body {
+    /* system font stack: see https://css-tricks.com/snippets/css/system-font-stack/ */
+    font: 400 100%/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    color: #2F372B;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background: #2F372B;
+    border-bottom: 3px solid #FE5276;
+    padding: 1rem 2rem;
+    line-height: 2;
+    text-align: center;
+}
+header ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+header a {
+    color: #fff;
+    text-decoration: none;
+}
+#logo a {
+    color: #FE5276;
+    font-weight: 700;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+}

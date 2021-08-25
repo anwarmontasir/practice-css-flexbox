@@ -1,0 +1,13 @@
+@media screen and (min-width: 768px) {
+    header ul {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
+    header li {
+        margin-left: 2rem;
+    }
+    #logo {
+        margin: 0 auto 0 0;
+    }
+}
