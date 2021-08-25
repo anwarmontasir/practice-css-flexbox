@@ -28,5 +28,27 @@ header a {
     color: #FE5276;
     font-weight: 700;
     font-size: 1.5rem;
-    text-transform: uppercase;
+}
+
+h1 {
+    font-size: 2rem;
+}
+section {
+    padding: 2rem;
+}
+#article {
+    background: #efe9e0;
+}
+#sample {
+    background: #e9d9d0;
+}
+#resources {
+    background: #f3e3dc;
+    font-size: .9rem;
+}
+#resources ul {
+    padding-left: 16px;
+}
+#resources li {
+    margin-bottom: 1rem;
 }
